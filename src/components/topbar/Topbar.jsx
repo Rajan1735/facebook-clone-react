@@ -9,7 +9,7 @@ export default function Topbar() {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">Rajansocial</span>
+        <span className="logo">Facebook</span>
       </div>
       <div className="topbarCenter">
         <div className="searchbar">
